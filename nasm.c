@@ -34,7 +34,7 @@ void printfile(int f)
 	else if(f==3)
 	file=fopen("c:\\asm\\code.txt","r");
 	else if(f==4)
-	file=fopen("c:\\asm\\inst.txt","r");
+	file=fopen("c:\\asm\\instructions.txt","r");
 	else
 	return;
 
