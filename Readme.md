@@ -6,4 +6,4 @@ Analysis Phase: In the first phase it take assembly code as input and gives symb
 Synthesis Phase:In the Second phase it takes the output of first phase as input and creates the final machine code
 
 ## Screenshot
-![screenshot](http://imgur.com/u8mHp)
+![screenshot](http://imgur.com/u8mHp.jpg)
